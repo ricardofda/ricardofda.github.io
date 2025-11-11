@@ -11,7 +11,7 @@
     <label for="password">password</label>
     <input type="password" name="password" />
     <label for="otp">otp</label>
-    <input type="text" name="otp autocomplete="one-time-code" />
+    <input type="text" name="otp" autocomplete="one-time-code" />
     <button type="submit">submit</form>
   </form>
 </body>
